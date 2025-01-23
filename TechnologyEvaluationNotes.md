@@ -93,9 +93,8 @@ Adjust criteria and weightings based on your project’s priorities.
 
 Using the weighted criteria from Step 3, compile the results of your technical tests, vendor assessments, and cost analyses into a single decision matrix. Each candidate technology (or protocol stack) receives a total score based on:
 
-\[
-\text{Total Score} = \sum_{i=1}^{n} \left(\text{Criterion Score}_i \times \text{Weight}_i\right)
-\]
+![image](https://github.com/user-attachments/assets/494f68d7-bb51-4ecf-84f2-b0751b9aeb9f)
+
 
 Example scoring approach:
 - Criterion scores range from 1 (poor) to 5 (excellent).
